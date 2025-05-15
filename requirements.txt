@@ -1,0 +1,10 @@
+faiss-cpu
+sentence-transformers
+gradio
+streamlit
+numpy
+matplotlib
+seaborn
+openai
+Pillow
+torch
